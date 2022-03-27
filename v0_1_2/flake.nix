@@ -11,6 +11,7 @@
   inputs.src-mpwc-v0_1_2.ref   = "refs/tags/v0.1.2";
   inputs.src-mpwc-v0_1_2.owner = "SolitudeSF";
   inputs.src-mpwc-v0_1_2.repo  = "mpwc";
+  inputs.src-mpwc-v0_1_2.dir   = "";
   inputs.src-mpwc-v0_1_2.type  = "github";
   
   inputs."masterpassword".owner = "nim-nix-pkgs";
