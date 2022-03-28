@@ -11,7 +11,6 @@
   inputs.src-mpwc-master.ref   = "refs/heads/master";
   inputs.src-mpwc-master.owner = "SolitudeSF";
   inputs.src-mpwc-master.repo  = "mpwc";
-  inputs.src-mpwc-master.dir   = "";
   inputs.src-mpwc-master.type  = "github";
   
   inputs."masterpassword".owner = "nim-nix-pkgs";
